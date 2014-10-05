@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Schedule Calendar</title>
+<link href='http://www.gdg-london.com/static/devfest/js/fullcalendar/fullcalendar.css'
+	rel='stylesheet' />
+<link href='http://www.gdg-london.com/static/devfest/js/fullcalendar/fullcalendar.print.css'
+	rel='stylesheet' media='print' />
+<script src='http://www.gdg-london.com/static/devfest/js/fullcalendar/jquery.min.js'></script>
+<script src='http://www.gdg-london.com/static/devfest/js/fullcalendar/jquery-ui.custom.min.js'></script>
+<script src='http://www.gdg-london.com/static/devfest/js/fullcalendar/fullcalendar.min.js'></script>
+<script src='http://www.gdg-london.com/static/devfest/js/fullcalendar/gcal.js'></script>
+<script>
+	$(document)
+			.ready(
+					function() {
+
+						var date = new Date();
+						var d = date.getDate();
+						var m = date.getMonth();
+						var y = date.getFullYear();
+
+						$('#calendar')
+								.fullCalendar(
+										{
+											header : {
+
+												left : 'title',
+												right : '',
+											},
+											eventClick : function(event) {
+
+												return false;
+											},
+											theme : false,
+											hiddenDays : [ 0, 1, 2, 3, 4 ],
+											height : 2000,
+											defaultView : 'agendaWeek',
+											allDaySlot : false,
+											slotMinutes : 10,
+											firstHour : 09,
+											minTime : 9,
+											maxTime : 21,
+											slotEventOverlap : false,
+											date : 1,
+											month : 10,
+											eventColor : 'rgb(241, 102, 33)',
+											editable : false,
+											events : 'https://www.google.com/calendar/feeds/t6udjg3d857mp8mg6o4vodu7vo%40group.calendar.google.com/private-dc731d417c2f2535d734dfbe814ab54b/basic'
+										});
+
+					});
+</script>
+<style>
+body {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 14px;
+	font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+}
+
+#calendar {
+	width: 80%;
+	min-width: 380px;
+	margin: 0 auto;
+}
+
+#calendar table.fc-agenda-slots tr.fc-minor th.fc-agenda-axis {
+	display: none !important;
+}
+</style>
+</head>
+<body>
+
+
+	<div id='calendar'></div>
+
+</body>
+</html>

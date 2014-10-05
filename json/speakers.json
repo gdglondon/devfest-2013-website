@@ -1,0 +1,134 @@
+[
+    {
+        "speakers" : [{
+            "name" : "Richard Hyndman",
+            "gplusid" : "+RichHyndman",
+            "image" : "https://lh3.googleusercontent.com/-mpZ5UcfpnJc/AAAAAAAAAAI/AAAAAAAArcI/la1Ukj1nWm8/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Developer Advocate"
+        }],
+        "title" : "\"What's new in Android\" - \"Find out about the latest and greatest updates to the Android Platform\"",
+        "desc" : "Richard is a Senior Developer Advocate for Android at Google in the UK. He has enjoyed over 10 years in the mobile industry, including experience running a VC funded mobile start up, working for a large mobile operator and a few years consulting. With his J2ME and XHTML years behind him, Richard now supports Android developers bringing excellent apps to the Google Play Store.",
+        "id" : 0
+    },
+    {
+        "speakers" : [{
+            "name" : "Ian Barber",
+            "gplusid" : "+IanBarber",
+            "image" : "https://lh6.googleusercontent.com/-DXmOngLN6Gc/AAAAAAAAAAI/AAAAAAAAGc4/Roeci0EovY8/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Developer Advocate"
+        }],
+        "title" : "Google+ Signin",
+        "desc" : "Ian Barber works as a Developer Advocate for Google+, and is based in Google’s London office, where he helps developers make best use of the Google+ platform. Among various open source interests, Ian is the author of the PHP Support Vector Machine extension and a contributor to the brokerless messaging library ZeroMQ.",
+        "id" : 1
+    },
+    {
+        "speakers" : [{
+            "name" : "Mandy Waite",
+            "gplusid" : "+MandyWaite",
+            "image" : "https://lh4.googleusercontent.com/-fdgv1YNMZlU/AAAAAAAAAAI/AAAAAAAACCc/HicHW9vAgnc/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Developer Advocate"
+        }],
+        "title" : "Building Data Pipelines with the Google Cloud Platform",
+        "desc" : "Mandy works in Google Developer Relations on the Google Cloud Platform, covering App Engine, Compute Engine, Big Query and all of the data storage options that they connect to. She's a staunch advocate on behalf of the Developer, representing their needs to product & engineering teams within Google.",
+        "id" : 2
+    },
+    {
+        "speakers" : [{
+            "name" : "Arun Nagarajan ",
+            "gplusid" : "+ArunNagarajan",
+            "image" : "https://lh4.googleusercontent.com/-ZpkMDNv6TK8/AAAAAAAAAAI/AAAAAAAACpk/LWkJWT_Kiek/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Developer Advocate"
+        }],
+        "title" : "Google Apps Script",
+        "desc" : "Arun is a Senior Developer Advocate at Google. As part of the Developer Relations team, Arun works closely with Google Apps customers, partners and independent developers to help build compelling applications and workflows using Google Apps Script. Prior to Google, Arun spent over 9 years at a Boston area company leading a team building a cross-platform mobile application development framework for large enterprises. Arun has a BS in Computer Science from Johns Hopkins University. Arun resides in New York City but still loves the outdoors.",
+        "id" : 3
+    },
+    {
+        "speakers" : [{
+            "name" : "George Goodyer",
+            "gplusid" : "",
+            "image" : "http://www.gdg-london.com/static/devfest/images/george.jpg",
+            "company" : "Sr. Director of Engineering",
+            "title" : "Right Scale"
+        }],
+        "title" : "Right Scale",
+        "desc" : "George Goodyer is the Sr Director of Engineering at RightScale and is responsible for the core development teams delivering the RightScale cloud management solution. Previously, George was Director of Engineering at VeriSign ( Symantec ) responsible for the SSL core and retail platform. George resides in London, is passionate about technology, agile development methodologies and working with the developers that make it all possible. " ,
+        "id" : 6
+    },
+    {
+        "speakers" : [{
+            "name" : "Jason Mayes",
+            "gplusid" : "110804953626559077511",
+            "image" : "https://lh4.googleusercontent.com/-O1agHpZpFCA/AAAAAAAAAAI/AAAAAAAAR5M/DRLwIAFxzpY/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Custom Solution Engineer"
+        }],
+        "title" : "HTML5 For Innovation",
+        "desc" : "Jason is responsible for developing innovative solutions using the latest web technologies within HTML5, CSS3, and JavaScript to meet the needs of Google's largest clients and internal teams across Europe. He defines himself as a hybrid web developer, meaning he enjoys taking on both creative (design) and technical (programming) roles within his work. Prior to joining Google, he worked for a global semiconductor startup (XMOS), defining their web presence as it is today and even started his own web company. Jason holds a MEng degree in Computer Science where he specialized in web / mobile technologies writing his thesis on 'Reality mining using mobile devices and pseudonymous social networks'. In his spare time he enjoys travelling, photography, flying aircraft and can often be found combining all three of these activities together." ,
+        "id" : 6
+    },
+    {
+        "speakers" : [{
+            "name" : "Umar Hansa",
+            "gplusid" : "111696301786817020074",
+            "image" : "https://lh5.googleusercontent.com/-R-JMdNj8Vco/AAAAAAAAAAI/AAAAAAAAAfQ/1NhptAiNNZ8/s120-c/photo.jpg",
+            "company" : "Shazam",
+            "title" : "Google Developer Expert"
+        }],
+        "title" : "What's new in the Chrome DevTools",
+        "desc" : "Umar Hansa is a front-end web developer based in London who has a focus on writing tips, tutorials and documentation for the web platform. Using Chrome tooling such as the DevTools for an improved development workflow but also for debugging performance issues is an area which he plans to explore further and share information about to the community." ,
+        "id" : 6
+    },
+    {
+        "speakers" : [{
+            "name" : "Roman Kirillov",
+            "gplusid" : "+RomanKirillov",
+            "image" : "https://lh4.googleusercontent.com/-jFV3plQw2d8/AAAAAAAAAAI/AAAAAAAA1Yg/EX-vGyIX_Wk/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Software Engineer"
+        }],
+        "title" : "AppEngine Mobile Backend Starter",
+        "desc" : "Roman is a Senior Engineer at Google and works on new Google advertising products. His area of interests includes AppEngine, building and consuming APIs on the web and mobile devices, DIY electronics and home automation." ,
+        "id" : 7
+    },
+    {
+        "speakers" : [{
+            "name" : "Sam Dutton",
+            "gplusid" : "+samdutton",
+            "image" : "https://lh6.googleusercontent.com/-Zp8otqTrvn4/AAAAAAAAAAI/AAAAAAAAc9g/bqf8CIV5HS8/s120-c/photo.jpg",
+            "company" : "Google",
+            "title" : "Developer Advocate"
+        }],
+        "title" : "An introduction to WebRTC",
+        "desc" : "Sam Dutton is a Developer Advocate for Google Chrome, specialising in WebRTC, OWP, media APIs, and the mobile web. Sam has designed and coded numerous websites as well as native desktop and mobile applications. He previously worked for BBC R&D, ITN, Decca Records and Picador Books, and has run Code Clubs at Ravenstone School in south London." ,
+        "id" : 8
+    },
+    {
+        "speakers" : [{
+            "name" : "John Stevenson",
+            "gplusid" : "117080433375668558463",
+            "image" : "https://lh3.googleusercontent.com/-lJOwC2dMrLo/AAAAAAAAAAI/AAAAAAAAI4A/MeidmhT60hE/s120-c/photo.jpg",
+            "company" : "Salesforce",
+            "title" : "Developer Evangelist"
+        }],
+        "title" : "Building native Android apps for the Salesforce platform",
+        "desc" : "The open-source Salesforce Platform Mobile SDKs give you the flexibility to build native, web and hybrid apps for iOS and Android.  This session will demonstrate how to create your own native Android mobile applications that interface with the Salesforce Platform." ,
+        "id" : 8
+    },
+    {
+        "speakers" : [{
+            "name" : "Peter Chittum",
+            "gplusid" : "117080433375668558463",
+            "image" : "https://lh6.googleusercontent.com/-MTL5dVUN9J8/AAAAAAAAAAI/AAAAAAAAB74/YEeUl6k8nZw/s120-c/photo.jpg",
+            "company" : "Salesforce",
+            "title" : "Developer Evangelist"
+        }],
+        "title" : "Salesforce.com and AngularJS: HTML5 Apps on the Force.com Platform",
+        "desc" : "Over the course of twelve years Peter Chittum taught hundreds of people working at every level in enterprise software including developer, CTO, administrator, and even the occasional end user on a broad variety of technologies. After two years working in the technical training program at salesforce.com and becoming an active contributor in its growing developer community he moved to the developer evangelism team. He takes pleasure in explaining to people why he, a Californian, lives in England and makes the undisputed claim of cooking the best Mexican food in the UK." ,
+        "id" : 9
+    } 
+]

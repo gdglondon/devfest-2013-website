@@ -1,0 +1,69 @@
+[
+    {
+        "time" : {
+            "start" : 1383298200000,
+            "end" : 1383300000000
+        },
+        "sessions" : ["Registration / Breakfast"]
+    },
+    {
+        "time" : {
+            "start" : 1383300000000,
+            "end" : 1383304500000
+        },
+        "sessions" : ["Introduction"]
+    },
+    {
+        "time" : {
+            "start" : 1383304500000,
+            "end" : 1383304500000
+        },
+        "sessions" : ["Richard Hyndman"]
+    },
+    {
+        "time" : {
+            "start" : 1380391200000,
+            "end" : 1382115600161
+        },
+        "sessions" : ["Grant"],
+        "notes" : "TBD"
+    },
+    {
+        "time" : {
+            "start" : 1380394800000,
+            "end" : 1382115600161
+        },
+        "sessions" : ["Lunch"]
+    },
+    {
+        "time" : {
+            "start" : 1380398400000,
+            "end" : 1382115600161
+        },
+        "sessions" : [5,17,9,14],
+        "notes" : "TBD"
+    },
+    {
+        "time" : {
+            "start" : 1380402000000,
+            "end" : 1382115600161
+        },
+        "sessions" : [1,20,13,8],
+        "notes" : "TBD"
+    },
+    {
+        "time" : {
+            "start" : 1380405600000,
+            "end" : 1382115600161
+        },
+        "sessions" : [7,18,19,10],
+        "notes" : "TBD"
+    },
+    {
+        "time" : {
+            "start" : 1380409200000,
+            "end" : 1382115600161
+        },
+        "sessions" : ["Closing Keynote"]
+    }
+]
